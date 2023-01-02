@@ -41,11 +41,29 @@ For detailed information please contact me on [LinkedIn](https://www.linkedin.co
 
 📌 Understanding of HTML/CSS, JavaScript (basics).
 
+📌 Using Intellij Idea; WebStorm, Atom.
+
+📌 Creating with Canva, MS Visio, Notion.
+
 Currently, I'm learning Java Spring Framework with [Spring in Action, 5th Edition](https://www.amazon.com/Spring-Action-Craig-Walls/dp/1617294942) by Craig Walls. Dedicated educational project: [Scara-spring-training](https://github.com/Kkotto/Scara-spring-training).
 
 Besides, I complete [Codewars](https://www.codewars.com/dashboard) katas (tasks). Dedicated project: [Codewars](https://github.com/Kkotto/Codewars).
 
----
+<div id="skills">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="Csharp" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>
+
+  ---
 
 <h3 align="center">Courses</h3>
 
@@ -55,32 +73,11 @@ Besides, I complete [Codewars](https://www.codewars.com/dashboard) katas (tasks)
 
 ✨ Java Tutorial: [W3Schools](https://www.w3schools.com/java/default.asp).
 
-✨ Java Tutorial, ru: [Metanit](https://metanit.com/java/tutorial/).
+✨ Java Tutorial [ru]: [Metanit](https://metanit.com/java/tutorial/).
 
 ✨ University lessons & Erasmus+ international programme :)
 
 ✨ I'd like to mention: 
 - [Baeldung](https://www.baeldung.com); 
-- [Habr](https://habr.com/ru/all/), ru; 
-- [A cup of Java](https://t.me/a_cup_of_java), Telegram channel.
-
-
-
-
-
-
-
-<!--
-**Kkotto/Kkotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Habr](https://habr.com/ru/all/) [ru]; 
+- [A cup of Java](https://t.me/a_cup_of_java) [telegram channel].
