@@ -81,3 +81,10 @@ Besides, I complete [Codewars](https://www.codewars.com/dashboard) katas (tasks)
 - [Baeldung](https://www.baeldung.com); 
 - [Habr](https://habr.com/ru/all/) [ru]; 
 - [A cup of Java](https://t.me/a_cup_of_java) [telegram channel].
+  
+  ---
+  
+<div align="center">
+  <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="30%"/>
+</div>
+ 
