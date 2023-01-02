@@ -45,7 +45,7 @@ For detailed information please contact me on [LinkedIn](https://www.linkedin.co
 
 📌 Creating with Canva, MS Visio, Notion.
 
-Currently, I'm learning Java Spring Framework with [Spring in Action, 5th Edition](https://www.amazon.com/Spring-Action-Craig-Walls/dp/1617294942) by Craig Walls. Dedicated educational project: [Scara-spring-training](https://github.com/Kkotto/Scara-spring-training).
+Currently, I'm learning Java Spring Framework with [Spring in Action, 5th Edition](https://www.amazon.com/Spring-Action-Craig-Walls/dp/1617294942) by Craig Walls. Dedicated educational project: [Wanderer-spring-training](https://github.com/Kkotto/Wanderer-spring-training).
 
 Besides, I complete [Codewars](https://www.codewars.com/dashboard) katas (tasks). Dedicated project: [Codewars](https://github.com/Kkotto/Codewars).
 
