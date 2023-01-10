@@ -31,6 +31,8 @@ For detailed information please contact me on [LinkedIn](https://www.linkedin.co
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkotto&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![image](https://www.codewars.com/users/Kkotto/badges/small)
+
 📌 Java SE, OOP, Java Stream API, Multithreading, Basic Patterns.
 
 📌 SQL/T-SQL.
@@ -67,7 +69,7 @@ Besides, I complete [Codewars](https://www.codewars.com/dashboard) katas (tasks)
 
 <h3 align="center">Courses</h3>
 
-✨ YT, ru: Java для начинающих (Java for Beginners) by [alishev](https://youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak).
+✨ YT [ru]: Java для начинающих (Java for Beginners) by [alishev](https://youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak).
 
 ✨ Java Tutorial: [JavaTPoint](https://www.javatpoint.com/java-tutorial).
 
@@ -78,9 +80,14 @@ Besides, I complete [Codewars](https://www.codewars.com/dashboard) katas (tasks)
 ✨ University lessons & Erasmus+ international programme :)
 
 ✨ I'd like to mention: 
-- [Baeldung](https://www.baeldung.com); 
-- [Habr](https://habr.com/ru/all/) [ru]; 
-- [A cup of Java](https://t.me/a_cup_of_java) [telegram channel].
+  
+→ [Baeldung](https://www.baeldung.com); 
+  
+→ [Habr](https://habr.com/ru/all/) [ru]; 
+  
+→ [A cup of Java](https://t.me/a_cup_of_java) [telegram channel].
+  
+→ [GeeksForGeeks](https://www.geeksforgeeks.org/java/?ref=shm).
   
   ---
   
