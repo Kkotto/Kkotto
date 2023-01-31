@@ -90,6 +90,20 @@ Besides, I complete [Codewars](https://www.codewars.com/dashboard) katas (tasks)
 → [A cup of Java](https://t.me/a_cup_of_java) [telegram channel].
   
 → [GeeksForGeeks](https://www.geeksforgeeks.org/java/?ref=shm).
+
+ ---
+ 
+  <h3 align="center">Repositories</h3>
+  
+  📎 Test Task: [Java Backend Test Task for Clevertec](https://github.com/Kkotto/Clevertec) | Java Spring Framework.
+  
+  📎 BSUIR labs: [Cryptographic Technologies](https://github.com/Kkotto/CGT-labs) | Java.
+  
+  📎 BSUIR labs: [Information Technologies Interfaces](https://github.com/Kkotto/JSTraining) | JavaScript.
+  
+  📎 Small Java tasks: [Codewars katas](https://github.com/Kkotto/Codewars) | Java.
+  
+  📎 Java Training: [Java Training tasks](https://github.com/Kkotto/JavaTraining) | Java.
   
   ---
   
