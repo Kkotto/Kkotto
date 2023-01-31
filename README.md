@@ -47,9 +47,11 @@ For detailed information please contact me on [LinkedIn](https://www.linkedin.co
 
 📌 Creating with Canva, MS Visio, Notion.
 
-Currently, I'm learning Java Spring Framework with [Spring in Action, 5th Edition](https://www.amazon.com/Spring-Action-Craig-Walls/dp/1617294942) by Craig Walls. <--! Dedicated educational project: [Wanderer-spring-training](https://github.com/Kkotto/Wanderer-spring-training). -->
+Currently, I'm learning Java Spring Framework with [Spring in Action, 5th Edition](https://www.amazon.com/Spring-Action-Craig-Walls/dp/1617294942) by Craig Walls. 
+<!-- Dedicated educational project: [Wanderer-spring-training](https://github.com/Kkotto/Wanderer-spring-training). -->
 
-Besides, I complete [Codewars](https://www.codewars.com/dashboard) katas (tasks). <--! Dedicated project: [Codewars](https://github.com/Kkotto/Codewars). -->
+Besides, I complete [Codewars](https://www.codewars.com/dashboard) katas (tasks). 
+<!-- Dedicated project: [Codewars](https://github.com/Kkotto/Codewars). -->
 
 <div id="skills">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
