@@ -21,9 +21,9 @@
 
 ☘️ Education: Belarusian State University of Informatics and Radioelectronics (BSUIR)
 
-☘️ Languages: English B2.
+☘️ Languages: English B2/С1ю
 
-For detailed information please contact me on [LinkedIn](https://www.linkedin.com/in/ksen-sharupich/).
+For detailed personal information please contact me on [LinkedIn](https://www.linkedin.com/in/ksen-sharupich/).
 
 ---
 
@@ -33,7 +33,7 @@ For detailed information please contact me on [LinkedIn](https://www.linkedin.co
 
 ![image](https://www.codewars.com/users/Kkotto/badges/small)
 
-📌 Java SE, OOP, Java Stream API, Multithreading, Basic Patterns.
+📌 Java SE, OOP, Java Stream API, Multithreading, Design Patterns.
 
 📌 SQL/T-SQL.
 
@@ -47,7 +47,7 @@ For detailed information please contact me on [LinkedIn](https://www.linkedin.co
 
 📌 Creating with Canva, MS Visio, Notion.
 
-Currently, I'm learning Java Spring Framework with [Spring in Action, 5th Edition](https://www.amazon.com/Spring-Action-Craig-Walls/dp/1617294942) by Craig Walls. 
+Currently, I'm learning Java Spring Framework with [Spring in Action, 5th Edition](https://www.amazon.com/Spring-Action-Craig-Walls/dp/1617294942) by Craig Walls and [Alishev Spring Framework Course](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)
 <!-- Dedicated educational project: [Wanderer-spring-training](https://github.com/Kkotto/Wanderer-spring-training). -->
 
 Besides, I complete [Codewars](https://www.codewars.com/dashboard) katas (tasks). 
@@ -104,6 +104,8 @@ Besides, I complete [Codewars](https://www.codewars.com/dashboard) katas (tasks)
   📎 Small Java tasks: [Codewars katas](https://github.com/Kkotto/Codewars) | Java.
   
   📎 Java Training: [Java Training tasks](https://github.com/Kkotto/JavaTraining) | Java.
+  
+  📎 Spring Core: [Java Spring Framework Learning](https://github.com/Kkotto/FirstSpringApp) | Java Spring Framework.
   
   ---
   
