@@ -82,14 +82,10 @@ Besides, I complete [Codewars](https://www.codewars.com/dashboard) katas (tasks)
 ✨ University lessons & Erasmus+ international programme :)
 
 ✨ I'd like to mention: 
-  
-→ [Baeldung](https://www.baeldung.com); 
-  
-→ [Habr](https://habr.com/ru/all/) [ru]; 
-  
-→ [A cup of Java](https://t.me/a_cup_of_java) [telegram channel].
-  
-→ [GeeksForGeeks](https://www.geeksforgeeks.org/java/?ref=shm).
+  [Baeldung](https://www.baeldung.com), 
+  [Habr](https://habr.com/ru/all/) [ru], 
+  [A cup of Java](https://t.me/a_cup_of_java) [telegram channel],
+  [GeeksForGeeks](https://www.geeksforgeeks.org/java/?ref=shm).
 
  ---
  
