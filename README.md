@@ -21,7 +21,7 @@
 
 ☘️ Education: Belarusian State University of Informatics and Radioelectronics (BSUIR)
 
-☘️ Languages: English B2/С1ю
+☘️ Languages: English B2/С1
 
 For detailed personal information please contact me on [LinkedIn](https://www.linkedin.com/in/ksen-sharupich/).
 
